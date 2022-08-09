@@ -5,7 +5,7 @@
     - CrazyBet
     - LuckyBet
 
-- The FunBet criteria was to retrieve all customer updates for this contract and exclude any updates related to the SerieA competition.
+- The FunBet criteria was to retrieve all customer updates for this contract and exclude any updates related to the PlayerProps update type.
 - The CrazyBet criteria was to retrieve only customer updates related to the SerieA competition
 - The LuckyBet criteria was to retrieve all updates that would exclude any updates related to the Premier League competition and only include updates that had a probability greater than 0.25.
 

@@ -1,5 +1,12 @@
 [
     {
+        "FixtureId": 62602,
+        "Competition": "SerieA",
+        "UpdateType": "Core",
+        "SelectionId": 1,
+        "Probability": 0.5
+    },
+    {
         "FixtureId": 23838,
         "Competition": "LaLiga",
         "UpdateType": "Core",
@@ -14,11 +21,11 @@
         "Probability": 0.8
     },
     {
-        "FixtureId": 59391,
-        "Competition": "PremierLeague",
-        "UpdateType": "PlayerProps",
-        "SelectionId": 17,
-        "Probability": 0.5
+        "FixtureId": 20448,
+        "Competition": "SerieA",
+        "UpdateType": "Core",
+        "SelectionId": 65,
+        "Probability": 0.2
     },
     {
         "FixtureId": 35235,
@@ -35,13 +42,6 @@
         "Probability": 0.6
     },
     {
-        "FixtureId": 50471,
-        "Competition": "LaLiga",
-        "UpdateType": "PlayerProps",
-        "SelectionId": 74,
-        "Probability": 0.2
-    },
-    {
         "FixtureId": 33910,
         "Competition": "LaLiga",
         "UpdateType": "Core",
@@ -49,11 +49,11 @@
         "Probability": 0.0
     },
     {
-        "FixtureId": 23127,
-        "Competition": "PremierLeague",
-        "UpdateType": "PlayerProps",
-        "SelectionId": 86,
-        "Probability": 0.7
+        "FixtureId": 50831,
+        "Competition": "SerieA",
+        "UpdateType": "Core",
+        "SelectionId": 93,
+        "Probability": 1.0
     },
     {
         "FixtureId": 25296,

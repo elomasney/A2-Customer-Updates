@@ -9,9 +9,9 @@ with open('forwarder_updates.json', encoding='utf-8') as f:
 def fun_bet():
     fun_bet_updates = []
     # Loop through updates to find all updates for Fun Bet Customer.
-    # Excluding all updates for the 'SerieA' competition.
+    # Excluding all updates for the 'PlayerProps' update type.
     for update in updates:
-        if update['Competition'] != 'SerieA':
+        if update['UpdateType'] != 'PlayerProps':
             fun_bet_updates.append(update)
             with open("fun_bet.json", "w", encoding='utf-8') as file:
                 json.dump(fun_bet_updates, file, indent=4)
